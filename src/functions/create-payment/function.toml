@@ -1,5 +1,0 @@
-[experimental]
-  pull = true
-
-[build]
-  command = ""
